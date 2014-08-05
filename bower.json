@@ -1,0 +1,16 @@
+{
+  "name": "meet-me-3",
+  "version": "0.0.0",
+  "homepage": "https://github.com/eduRivera/meet-me-3",
+  "authors": [
+    "EduRivera <eduardriveramestre@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
